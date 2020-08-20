@@ -1,0 +1,15 @@
+mkdir C:\Users\GooseHouse\SoftDevI
+cd .\SoftDevI\
+mkdir Unit01
+cd .\Unit01\
+notepad file01.txt
+cp file01.txt file02.txt
+mkdir Assignment01
+cd .\Assignment01\
+mkdir Ahmed
+mv C:\Users\GooseHouse\SoftDevI\Unit01\file02.txt C:\Users\GooseHouse\SoftDevI\Unit01\Assignment01\Ahmed
+cd C:\Users\GooseHouse\SoftDevI\Unit01\Assignment01\Ahmed
+notepad file02.txt
+cd C:\Users\GooseHouse\SoftDevI\Unit01
+rm C:\Users\GooseHouse\SoftDevI\Unit01\Assignment01\
+0 comments on commit 22a6f9d
